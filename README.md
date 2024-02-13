@@ -86,7 +86,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jakub-zulewski/jakub-zulewski/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jakub-zulewski/jakub-zulewski/snake/snake.svg" alt="Snake animation" />
 
 ###
 
