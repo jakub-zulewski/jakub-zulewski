@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jakub Żulewski and I'm a C# & .NET software developer from Poland</h2>
+<h2 align="left">Hi 👋! My name is Jakub Żulewski and I'm a C# & .NET software developer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jakub-zulewski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=GitHub%20Stats%20in%202024" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jakub-zulewski&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakub-zulewski&hide_border=true&area=false&hide_title=false&theme=redical" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakub-zulewski&hide_border=true&area=false&hide_title=false&custom_title=Contribution%20graph&theme=redical" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
